@@ -1,8 +1,8 @@
-Virtual Doctor Assistant 🩺💬
+Virtual Doctor Assistant 
 Virtual Doctor Assistant is a Python-based, voice-interactive medical suggestion tool.
 It uses speech recognition and text-to-speech to understand symptoms, provide basic health advice, and suggest remedies (both natural and medicinal).
 
-📌 Features
+ Features:
 Voice Interaction
 
 Listens to user input via microphone
@@ -35,7 +35,7 @@ Time Check
 
 Tells the current time
 
-🛠 Technologies Used
+🛠 Technologies Used:
 Python 3
 
 pyttsx3 – Text-to-speech conversion
